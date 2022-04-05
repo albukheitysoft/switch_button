@@ -1,4 +1,5 @@
 ## SwitchButton
+[![Pub Package](https://img.shields.io/pub/v/link_text.svg?style=flat-square)](https://pub.dartlang.org/packages/switch_button)
 
 ![Image](screenshots/Screenshot_2.png)
 
@@ -37,3 +38,5 @@ Add to pubspec.yaml:
 dependencies:
   switch_button: ^0.0.1
 ```
+
+For more info, check out [example project](https://github.com/albukheitysoft/switch_button/tree/master/example).
