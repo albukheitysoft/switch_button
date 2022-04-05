@@ -1,5 +1,5 @@
 ## SwitchButton
-[![Pub Package](https://img.shields.io/pub/v/link_text.svg?style=flat-square)](https://pub.dartlang.org/packages/switch_button)
+[![Pub Package](https://img.shields.io/pub/v/switch_button.svg?style=flat-square)](https://pub.dartlang.org/packages/switch_button)
 
 ![Image](screenshots/Screenshot_2.png)
 
