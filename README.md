@@ -1,6 +1,6 @@
 ## SwitchButton
 
-![Image](screenshots/Screenshot_20220405_234805.png)
+![Image](screenshots/Screenshot_2.png)
 
 ## Usage
 
